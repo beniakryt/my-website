@@ -8,5 +8,6 @@
     <orderEntry type="library" name="gsap" level="application" />
     <orderEntry type="library" name="ThrowPropsPlugin" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="@emailjs/browser" level="application" />
   </component>
 </module>
